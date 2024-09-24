@@ -10,4 +10,4 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 
 # Contribution from Kahmeeah Obey
 
-* I think the site looks both interesting and useful – I haven’t used it before, but I think I’ll use it regularly now. It’s cool that there are sections for job postings, discussing the latest news, and even showing off your own projects. I agree that tech has a huge impact on both the economy and society, and it’s nice to see more spaces like this where people in the industry can talk about it.
+I think the site looks both interesting and useful – I haven’t used it before, but I think I’ll use it regularly now. It’s cool that there are sections for job postings, discussing the latest news, and even showing off your own projects. I agree that tech has a huge impact on both the economy and society, and it’s nice to see more spaces like this where people in the industry can talk about it.
